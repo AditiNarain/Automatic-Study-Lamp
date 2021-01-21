@@ -1,6 +1,6 @@
 # Automatic Study Lamp
   ## Abstract:
-  Our project is an automatic lamp which will keep glowing until there is any movement by the person. As you stops moving without manually switching off the lamp will go off. SO   it will save energy if you slept while stuyding.
+  Our project is an automatic lamp which will keep glowing until there is any movement by the person. As you stops moving without manually switching off the lamp will go off. SO   it will save energy if you slept while stuyding.In this we are using passive IR sensor for detecting the object in the area where our sensor is placed and relay for supplying ac power to lamp.
 
 
 ### Components:
@@ -29,7 +29,7 @@
   The signal receives from on side controls the other side.
 
 ### Circuit Diagram:
-![Schematic](https://user-images.githubusercontent.com/73650233/105363619-3dc69500-5c22-11eb-879c-8e6a40cf1539.png)
+![Software Simulation](https://user-images.githubusercontent.com/73650233/105371409-9bf77600-5c2a-11eb-8bbf-a96f6db09a54.png)
 
 
 ### Working: 
